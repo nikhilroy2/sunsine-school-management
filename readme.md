@@ -1,6 +1,6 @@
 # 🌟 Sunshine Kids School Management Dashboard
 
-![School Management Dashboard](https://img001.prntscr.com/file/img001/B-IA2deFQpu3tqe-ucEbpA.png)
+![School Management Dashboard](https://img001.prntscr.com/file/img001/Ii25b3LhSkqI0At2WbhEwA.gif)
 
 ## 🚀 Live Demo
 **[View Live Demo](https://nikhilroy2.github.io/sunsine-school-management/)**
